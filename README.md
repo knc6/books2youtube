@@ -9,3 +9,5 @@ Currently, it features books on Vedanta philosophy, but the scope is not limited
 The Gospel of Sri Ramakrishna has been converted into YouTube videos for each chapter (54 parts) and sub-chapter (1,370 parts). Other available titles include Bhagavad Gita (in both Hindi and English) and Vivekachudamani.
 
 Detailed scripts coming soon!
+
+See also: https://scivedanta.github.io/
